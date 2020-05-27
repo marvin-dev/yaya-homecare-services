@@ -28,8 +28,8 @@ app.post('/api/inquiries', (req, res) => {
 
     let auth = {
       auth: {
-        api_key: '690a0aec553ea43a30b68c83192fa5d3-3e51f8d2-de78fce3',
-        domain: 'sandbox11cc06aef4ad41dea1e2046a5266a6ef.mailgun.org'
+        api_key: '',
+        domain: ''
       }
     };
 
